@@ -1,0 +1,4 @@
+<resources>
+    <string name="library_error">程序出错啦！</string>
+    <string name="library_file_error">创建文件夹失败</string>
+</resources>
